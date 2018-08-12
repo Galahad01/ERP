@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SL_sell_order
+</name>
+</assembly>
+<members>
+<member name="P:Galahadone.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.BackGround">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.download__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.fondo4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.giphy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Home_24px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_clear_search_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_copy_machine_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_door_sensor_alarmed_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_door_sensor_alarmed_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_download_resume_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_edit_account_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_enter_key_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_key_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_root_server_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_shutdown_40">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_shutdown_60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.icons8_teenager_male_filled_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.images__7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.lapis_cores">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Logo___SL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.MsoverBtn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.passwords_back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.prnt_normal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.RecognitionBg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.SBP3_Date_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.search2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Slideshow169_frm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Slideshow43_frm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.Slideshow43_frm_sm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Galahadone.My.Resources.Resources.ฮิปโปแดง">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Galahadone.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.advorder_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.bag_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.crytalorderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.Customer_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.product_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.slusers_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.alldata_ViewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.advorder_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.bag_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.crytalorderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.Customer_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.product_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.slusers_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.alldata_ViewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.advorder_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.bag_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.crytalorderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.Customer_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.product_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.slusers_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet.alldata_ViewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Galahadone.SLDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.advorder_tbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.bag_tbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.crytalorderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.Customer_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.product_tbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.slusers_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.alldata_ViewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Galahadone.SLDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Galahadone.SLDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Galahadone.SLDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.UpdateAll(Galahadone.SLDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Galahadone.SLDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

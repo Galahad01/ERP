@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A70413D-7A06-4FA4-B779-98E80E1F25CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Galahadone.My.MyApplication</StartupObject>
+    <RootNamespace>Galahadone</RootNamespace>
+    <AssemblyName>SL_sell_order</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SL_sell_order.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SL_sell_order.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\icon - Copy %282%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="mb">
+      <HintPath>..\..\..\..\..\Desktop\ModerUI\mb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="SQLABC_ModernUI">
+      <HintPath>..\..\..\..\..\Desktop\SQLABC_ModernUI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adfrm1_order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adfrm1_order.Designer.vb">
+      <DependentUpon>adfrm1_order.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_changepass.Designer.vb">
+      <DependentUpon>frm_changepass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_changepass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_crytalorder.Designer.vb">
+      <DependentUpon>frm_crytalorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_crytalorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_crytalview.Designer.vb">
+      <DependentUpon>frm_crytalview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_crytalview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_customer.Designer.vb">
+      <DependentUpon>frm_customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_note.Designer.vb">
+      <DependentUpon>frm_note.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_note.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_search.Designer.vb">
+      <DependentUpon>frm_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Selldeil.Designer.vb">
+      <DependentUpon>frm_Selldeil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Selldeil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_invertory.Designer.vb">
+      <DependentUpon>frm_invertory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_invertory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report\Order_Report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Order_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\search.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>search.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frm_staffparty.Designer.vb">
+      <DependentUpon>frm_staffparty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_staffparty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="SLDBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SLDBDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="adfrm1_order.resx">
+      <DependentUpon>adfrm1_order.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_changepass.resx">
+      <DependentUpon>frm_changepass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_crytalorder.resx">
+      <DependentUpon>frm_crytalorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_crytalview.resx">
+      <DependentUpon>frm_crytalview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_customer.resx">
+      <DependentUpon>frm_customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_note.resx">
+      <DependentUpon>frm_note.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_search.resx">
+      <DependentUpon>frm_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Selldeil.resx">
+      <DependentUpon>frm_Selldeil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_invertory.resx">
+      <DependentUpon>frm_invertory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Order_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Order_Report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\search.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>search.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_staffparty.resx">
+      <DependentUpon>frm_staffparty.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SLDBDataSet.xsc">
+      <DependentUpon>SLDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SLDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SLDBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SLDBDataSet.xss">
+      <DependentUpon>SLDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackGround.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-teenager-male-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-key-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-key-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo - SL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_SL-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-enter-key-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-enter-key-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shutdown-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-database-view-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-database-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-database-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shutdown-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clear-search-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-copy-machine-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-account-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-choice-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-door-sensor-alarmed-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-door-sensor-alarmed-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-root-server-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-download-resume-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search2.ico" />
+    <None Include="Resources\Slideshow43.frm.png" />
+    <None Include="Resources\Slideshow43.frm.sm.png" />
+    <None Include="Resources\Slideshow169.frm.png" />
+    <None Include="Resources\passwords_back.png" />
+    <None Include="Resources\lapis-cores.jpg" />
+    <None Include="Resources\ฮิปโปแดง.png" />
+    <None Include="Resources\logo_SL-01_new.jpg" />
+    <None Include="Resources\MsoverBtn.bmp" />
+    <None Include="Resources\prnt-normal.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\RecognitionBg.bmp" />
+    <None Include="Resources\images %287%291.jpg" />
+    <None Include="Resources\download %282%291.jpg" />
+    <None Include="Resources\fondo4.jpg" />
+    <None Include="Resources\dark-textures-clipart-background-design-black-10.jpg" />
+    <None Include="Resources\Home_24px.png" />
+    <Content Include="Resources\icon - Copy %282%29.ico" />
+    <None Include="Resources\SBP3_Date.Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,343 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.adfrm_main.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\SQLABC_ModernUI.dll
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome18\SL_sell_order\bin\Release\mb.dll
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\SQLABC_ModernUI.dll
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\bin\Release\mb.dll
+C:\Users\Dongjae\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSLwin7\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_beer\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_DONE\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_invertory1.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL_sell_orderHome19SERVERSL_แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\SL__แก้ไขเลขลบ_แก้ไขmutiline_แก้ไขฟอมสินค้า_แก้ไขชื่อร้านค้า_แก้ตรง\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด 18062561\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 22062561\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tum\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด,add_PPF 13072561\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\bin\Release\SL_sell_order.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\SL_sell_order.exe
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\SL_sell_order.xml
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\SL_sell_order.pdb
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\bin\Release\SL_sell_order.exe
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\bin\Release\SL_sell_order.pdb
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\bin\Release\SL_sell_order.xml
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\SL_sell_order.vbprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.adfrm1_order.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_changepass.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_crytalorder.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_crytalview.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_customer.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_login.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_note.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_search.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_Selldeil.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_invertory.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.Resources.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\Galahadone.frm_staffparty.resources
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\แก้ไขล่าสุด\SL_sell_order\obj\Release\SL_sell_order.vbproj.GenerateResource.Cache
